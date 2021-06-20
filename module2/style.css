@@ -20,7 +20,7 @@
     width: 100%;
     overflow: none;
     background-color: rgba(0,0,0,0.1);
-    border: 2px solid black;
+    border: 1px solid black;
   }
 
   .large
@@ -31,7 +31,7 @@
   .food-title{
     overflow: none;
     text-align: center;
-    border: 2px solid black;
+    border: 1px solid black;
     border-top: 0px;
     border-right: 0px;
     width: 100px;
